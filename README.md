@@ -4,12 +4,14 @@ HI!👋
 <div>
   <a href="https://https//github.com/deletrr">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deletrr&layout=compact&theme=chartreuse-dark" />
+  </a>
 </div>
 
 
 <div style="display: inline_block"><br>
+  <a href="https://manjaro.org/">
  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/manjaro-icon.svg" alt="Manjaro Icon" />
-
+ </a>
 </div>
 
 <!---
