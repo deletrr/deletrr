@@ -34,6 +34,9 @@ int main() {
      <a href="https://www.credly.com/badges/2de969f1-61e5-4a66-a762-85410cd77a1f/public_url">
   <img width="75px" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials" />
     </a>
+      <a href="https://badge.cps.sp.gov.br//view.aspx?4cc7ba7d-3399-45be-917d-947546e3bbd4">
+  <img width="75px" src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" alt="" />
+    </a>
     
 </div>
 
