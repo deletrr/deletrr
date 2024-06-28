@@ -25,13 +25,13 @@ int main() {
     <a href="https://www.credly.com/badges/3ccfb95d-c469-48c8-b18d-351d879e6438/public_url">
   <img width="75px" src="https://images.credly.com/size/110x110/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Networking Academy Learn-A-Thon 2024" />
     </a>
-    <a href="https://www.credly.com/badges/56963de0-f822-4aaf-ae42-8d2bec6ac03d">
+    <a href="https://www.credly.com/badges/56963de0-f822-4aaf-ae42-8d2bec6ac03d/public_url">
   <img width="75px" src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" />
     </a>
-      <a href="https://www.credly.com/badges/c16a05a8-991d-435f-8e9d-3a98a154ca48">
+      <a href="https://www.credly.com/badges/c16a05a8-991d-435f-8e9d-3a98a154ca4/public_url">
   <img width="75px" src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials" />
     </a>
-     <a href="https://www.credly.com/earner/earned/badge/2de969f1-61e5-4a66-a762-85410cd77a1f">
+     <a href="https://www.credly.com/badges/2de969f1-61e5-4a66-a762-85410cd77a1f/public_url">
   <img width="75px" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials" />
     </a>
     
