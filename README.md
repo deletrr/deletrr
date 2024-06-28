@@ -28,7 +28,7 @@ int main() {
     <a href="https://www.credly.com/badges/56963de0-f822-4aaf-ae42-8d2bec6ac03d">
   <img width="75px" src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" />
     </a>
-      <a href="https://www.credly.com/earner/earned/badge/c16a05a8-991d-435f-8e9d-3a98a154ca48">
+      <a href="https://www.credly.com/badges/c16a05a8-991d-435f-8e9d-3a98a154ca48">
   <img width="75px" src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials" />
     </a>
      <a href="https://www.credly.com/earner/earned/badge/2de969f1-61e5-4a66-a762-85410cd77a1f">
