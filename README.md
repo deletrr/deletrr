@@ -1,11 +1,7 @@
 
 
 HI!👋
-<div>
-  <a href="https://https//github.com/deletrr">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deletrr&layout=compact&theme=chartreuse-dark" />
-  </a>
-</div>
+
 
 ```yaml
 #include <stdio.h>
@@ -20,7 +16,11 @@ int main() {
     return 0;
 }
 ```
-
+<div>
+  <a href="https://https//github.com/deletrr">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deletrr&layout=compact&theme=chartreuse-dark" />
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <a href="https://manjaro.org/">
