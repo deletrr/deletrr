@@ -10,7 +10,7 @@ int main() {
     printf("name: DANILO DA SILVA PAULINO \n");
     printf("nickname: D.ELETR \n");
     printf("age: 31 \n");
-    printf("location: São Paulo - SP - Brasil\n");
+    printf("location: Earth \n");
     printf("Education: Multiplataform Software Development - Fatec Itaquera \n");
 
     return 0;
