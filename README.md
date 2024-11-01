@@ -7,7 +7,7 @@ HI!👋
 #include <stdio.h>
 
 int main() {
-    printf("name: DANILO DA SILVA PAULINO \n");
+    printf("name: DANILO PAULINO \n");
     printf("nickname: D.ELETR \n");
     printf("age: 32 \n");
     printf("location: Earth \n");
